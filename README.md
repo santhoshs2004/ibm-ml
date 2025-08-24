@@ -37,14 +37,14 @@ Each course folder contains:
 
 ## Project Highlights
 
-# Course 1: Performed data cleaning and visualization on a retail dataset to identify trends and outliers.
+## Course 1: Performed data cleaning and visualization on a retail dataset to identify trends and outliers.
 
-# Course 2: Built linear regression models to predict housing prices based on various features.
+## Course 2: Built linear regression models to predict housing prices based on various features.
 
-# Course 3: Developed classification models to predict customer churn using logistic regression and decision trees.
+## Course 3: Developed classification models to predict customer churn using logistic regression and decision trees.
 
-# Course 4: Applied clustering techniques to segment customers based on purchasing behavior.
+## Course 4: Applied clustering techniques to segment customers based on purchasing behavior.
 
-# Course 5: Implemented neural networks for image classification tasks.
+## Course 5: Implemented neural networks for image classification tasks.
 
-# Course 6: Utilized time series analysis to forecast sales and survival analysis for customer retention.
+## Course 6: Utilized time series analysis to forecast sales and survival analysis for customer retention.
