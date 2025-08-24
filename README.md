@@ -35,7 +35,7 @@ Each course folder contains:
 - Jupyter Notebook or JupyterLab  
 - Required Python libraries:
 
-## Project Highlights
+# Project Highlights
 
 ## Course 1: Performed data cleaning and visualization on a retail dataset to identify trends and outliers.
 
